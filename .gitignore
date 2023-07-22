@@ -1,10 +1,10 @@
-.stack-work
-dist
-cabal-dev
-.hsenv
+#  .stack-work
+#  dist
+#  cabal-dev
+#  .hsenv
 
-TAGS
+#  TAGS
 
-*.o
-*.hi
-*~
+#  *.o
+#  *.hi
+#  *~
